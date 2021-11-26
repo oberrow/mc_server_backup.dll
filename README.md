@@ -21,3 +21,8 @@ download the exe file and the dll (make sure they are in the same directory)
 
 ### How to use the exe
 open cmd in the directory that the exe is in and enter `demo "" ""` with the first "" being the directory you want to backup (copy) and the second "" is where the directory is going to be copyed to.
+#                              Features
+------------------------------------------------------------------------------
+Timestamp on the folder when backed up,
+copy's all subdirectory's,
+you can make it backup after a [] amount of minutes (put it in a loop and you'll have auto backup)
