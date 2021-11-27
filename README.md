@@ -9,7 +9,7 @@ link the .lib file to the executable (I'm assuming you already know how) and dow
 in the code put `using namespace backup` or use the function `backup::make_backup` this function has 3 parameters one of type `int` the others of type `std::string`
 
 ### 3rd step, setting the parameters
-first parameter: is how long (in minutes) until it makes the backup this parameter is type int 
+first parameter: is how long (in minutes) until it makes the backup this parameter is type `int`
 
 second parameter: is the directory (folder) you want to backup ( eg. `backup::make_backup(1, "C:\\Users\\My user\\Documents\dir")` )
 
