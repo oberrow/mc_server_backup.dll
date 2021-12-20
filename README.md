@@ -21,8 +21,6 @@ backup::backup::file is what the log file name is going to be ( eg. `backup::bac
 
 just put in `backup::backup make_backup;` or another name for the object
   
-### last step, 
-  
 ## demo program
 ### 1st step: inital setup
 download the exe file and the dll (make sure they are in the same directory)
