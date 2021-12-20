@@ -39,4 +39,5 @@ you can make it backup after a [] amount of minutes (put it in a loop and you'll
 ------------------------------------------------------------------------------
 1. if you want to have 2 objects that backup different directories than you can't without having to change the variables again
 2. the log class can only print one thing to the file
+3. 
 and that's it
