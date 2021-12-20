@@ -10,5 +10,17 @@
 // add headers that you want to pre-compile here
 #include "framework.h"
 #include <filesystem>
+#include <string>
+#include <chrono>
+#include <algorithm>
+#include <iomanip>
+#include <ctime>
+#include <sstream>
+#include <iostream>
+#include <fstream>
+#include <thread>
+#include <conio.h>
+#include <exception>
+#include <vector>
 
 #endif //PCH_H

@@ -6,3 +6,4 @@
 //	---------------------------------------
 
 #include "copyad5a672a-f35d-421d-b9ac-58dd24ffeefe.h"
+#include "auto.h"
